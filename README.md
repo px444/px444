@@ -1,53 +1,48 @@
-# Hi there, I'm Aditya Kumar 👋
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adityakumar9319)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityakr.swe@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/px444)
-
-Software Engineer targeting **low-latency backend systems, network proxies, and concurrency engineering**. I build high-throughput microservices in **Go** and solve algorithmic problems in **modern C++**.
-
----
-
-### 🛠️ Languages & Tech Stack
-
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
----
-
-### 🚀 Key Projects
-
-- **[SynapseGateway](https://github.com/px444/SynapseGateway):** Asynchronous AI reverse proxy in Go featuring dual-tier caching (L1 SHA-256 exact match + L2 768-dim vector semantic caching via Cosine Similarity). Reduces upstream inference latency from ~1.2s to sub-5ms with automated provider failover.
-- **[RateLimiter](https://github.com/px444/rate-limiter):** In-memory token-bucket rate limiter and reverse proxy built in Go. Benchmarked at 10,000+ req/sec with per-IP thread safety, verified with `go test -race` and `testing.B`.
-
----
-
-### 📊 GitHub Activity & Language Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=px444&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Aditya's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=px444&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" width="48%" />
+
+```
+  ██████╗ ██╗  ██╗██╗  ██╗██╗  ██╗██╗  ██╗
+  ██╔══██╗╚██╗██╔╝██║  ██║██║  ██║██║  ██║
+  ██████╔╝ ╚███╔╝ ███████║███████║███████║
+  ██╔═══╝  ██╔██╗ ╚════██║╚════██║╚════██║
+  ██║     ██╔╝ ██╗     ██║     ██║     ██║
+  ╚═╝     ╚═╝  ╚═╝     ╚═╝     ╚═╝     ╚═╝
+```
+
+### ⚡ ADITYA KUMAR // SYSTEMS & BACKEND ARCHITECTURE
+*Building low-latency network middleware, concurrency primitives, and real-time distributed pipelines.*
+
+---
+
+<a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1000&color=00FF66&center=true&vCenter=true&width=650&lines=%24+init+aditya_systems_runtime...;Kernel%3A+Linux+x86_64+%7C+Language%3A+Go+%26+C%2B%2B17;Status%3A+Benchmarked+%40+10%2C000%2B+RPS+(-race+verified);Zero-Allocation+Caches+%7C+Lock-Free+Patterns">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1000&color=00FF66&center=true&vCenter=true&width=650&lines=%24+init+aditya_systems_runtime...;Kernel%3A+Linux+x86_64+%7C+Language%3A+Go+%26+C%2B%2B17;Status%3A+Benchmarked+%40+10%2C000%2B+RPS+(-race+verified);Zero-Allocation+Caches+%7C+Lock-Free+Patterns" alt="Typing SVG" />
+</a>
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adityakumar9319)
+[![Email](https://img.shields.io/badge/Direct_Mail-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityakr.swe@gmail.com)
+[![GitHub](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/px444)
+
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=px444&theme=tokyonight&hide_border=true" alt="Aditya's GitHub Streak" width="97%" />
-</div>
+<br/>
+
+```asciidoc
+[ HOST ARCHITECTURE / ADITYA-ENGINEERING ]
+┌───────────────────────────┬─────────────────────────────────────────────────┐
+│ PROPERTY                  │ RUNTIME SPECIFICATION                           │
+├───────────────────────────┼─────────────────────────────────────────────────┤
+│ Core Focus                │ Low-Latency Services, Reverse Proxies, IPC      │
+│ Primary Systems           │ Go (Goroutines/Channels/Race Detect), C++17/20  │
+│ Low-Level Foundations     │ Linux POSIX, TCP/IP Stack, Virtual Memory, BGC  │
+│ Algorithmic Depth         │ 150+ DSA Solutions (Graphs, Trees, Memory/Bit)  │
+│ Target Environments       │ High-Throughput Linux Daemons & Cloud Edge     │
+└───────────────────────────┴─────────────────────────────────────────────────┘
+```
 
 ---
 
-### 📈 Problem Solving & Engineering Focus
+### 📡 Systems & Network Middleware
 
-- Solved **150+ DSA problems** focusing on trees, graphs, dynamic programming, and algorithmic optimization.
-- Systems focus: cache locality, concurrency safety (`sync.Mutex`, channels), and Linux network socket performance.
-
----
-
-### 📫 Connect With Me
-
-- **Email:** [adityakr.swe@gmail.com](mailto:adityakr.swe@gmail.com)
-- **LinkedIn:** [linkedin.com/in/adityakumar9319](https://linkedin.com/in/adityakumar9319)
+#### 1. [SynapseGateway](https://github.com/px444/SynapseGateway) — *Zero-
