@@ -1,48 +1,38 @@
-<div align="center">
+# Aditya Kumar
 
-```
-  ██████╗ ██╗  ██╗██╗  ██╗██╗  ██╗██╗  ██╗
-  ██╔══██╗╚██╗██╔╝██║  ██║██║  ██║██║  ██║
-  ██████╔╝ ╚███╔╝ ███████║███████║███████║
-  ██╔═══╝  ██╔██╗ ╚════██║╚════██║╚════██║
-  ██║     ██╔╝ ██╗     ██║     ██║     ██║
-  ╚═╝     ╚═╝  ╚═╝     ╚═╝     ╚═╝     ╚═╝
-```
+Software Engineer focused on backend infrastructure, network middleware, and concurrency engineering. Building low-latency services in **Go** and systems algorithms in **C++**.
 
-### ⚡ ADITYA KUMAR // SYSTEMS & BACKEND ARCHITECTURE
-*Building low-latency network middleware, concurrency primitives, and real-time distributed pipelines.*
+[LinkedIn](https://linkedin.com/in/adityakumar9319) · [Email](mailto:adityakr.swe@gmail.com)
 
 ---
 
-<a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1000&color=00FF66&center=true&vCenter=true&width=650&lines=%24+init+aditya_systems_runtime...;Kernel%3A+Linux+x86_64+%7C+Language%3A+Go+%26+C%2B%2B17;Status%3A+Benchmarked+%40+10%2C000%2B+RPS+(-race+verified);Zero-Allocation+Caches+%7C+Lock-Free+Patterns">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1000&color=00FF66&center=true&vCenter=true&width=650&lines=%24+init+aditya_systems_runtime...;Kernel%3A+Linux+x86_64+%7C+Language%3A+Go+%26+C%2B%2B17;Status%3A+Benchmarked+%40+10%2C000%2B+RPS+(-race+verified);Zero-Allocation+Caches+%7C+Lock-Free+Patterns" alt="Typing SVG" />
-</a>
+### Core Technical Focus
 
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adityakumar9319)
-[![Email](https://img.shields.io/badge/Direct_Mail-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityakr.swe@gmail.com)
-[![GitHub](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/px444)
-
-</div>
-
-<br/>
-
-```asciidoc
-[ HOST ARCHITECTURE / ADITYA-ENGINEERING ]
-┌───────────────────────────┬─────────────────────────────────────────────────┐
-│ PROPERTY                  │ RUNTIME SPECIFICATION                           │
-├───────────────────────────┼─────────────────────────────────────────────────┤
-│ Core Focus                │ Low-Latency Services, Reverse Proxies, IPC      │
-│ Primary Systems           │ Go (Goroutines/Channels/Race Detect), C++17/20  │
-│ Low-Level Foundations     │ Linux POSIX, TCP/IP Stack, Virtual Memory, BGC  │
-│ Algorithmic Depth         │ 150+ DSA Solutions (Graphs, Trees, Memory/Bit)  │
-│ Target Environments       │ High-Throughput Linux Daemons & Cloud Edge     │
-└───────────────────────────┴─────────────────────────────────────────────────┘
-```
+- **Languages:** Go, C++, C, SQL
+- **Systems & Backend:** High-concurrency services, reverse proxies, multi-tier caching, race synchronization, token-bucket rate limiting
+- **Low-Level Fundamentals:** POSIX systems programming, memory management, TCP/IP sockets, Linux internals
 
 ---
 
-### 📡 Systems & Network Middleware
+### Featured Projects
 
-#### 1. [SynapseGateway](https://github.com/px444/SynapseGateway) — *Zero-
+#### [SynapseGateway](https://github.com/px444/SynapseGateway)
+*Asynchronous AI reverse proxy and caching middleware in Go*
+
+- Implemented a two-tier caching architecture: L1 exact SHA-256 hash lookup and L2 768-dimensional vector cache using cosine similarity.
+- Bypasses upstream model calls on cache hits, reducing request latency from ~1,200ms to <5ms.
+- Designed thread-safe mutex pools to prevent cache stampedes and added automated failover across upstream providers.
+
+#### [RateLimiter](https://github.com/px444/rate-limiter)
+*High-throughput token-bucket reverse proxy in Go*
+
+- Built an in-memory token-bucket rate limiter with per-IP state isolation.
+- Benchmarked at 10,000+ req/sec using `testing.B` with zero data races (`go test -race` verified).
+- Implemented an asynchronous background cleaner to sweep expired client buckets and prevent memory growth under burst traffic.
+
+---
+
+### Foundations
+
+- **Data Structures & Algorithms:** 150+ problems solved in modern C++ (graphs, trees, bit manipulation, DP).
+- **Tooling:** Linux / Bash, Git CLI, Docker, GDB, Valgrind.
