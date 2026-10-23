@@ -1,57 +1,36 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHlhaWY1MTBqYXhhbm9oemJtbGJ0d28xdGE3OTRzZjJhZnJjZmNxaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lgTpcy4dkdUc0/giphy.gif"  />
-</div>
+# Hi there, I'm Aditya Kumar 👋
 
-###
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/adityakumar9319)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:adityakr.swe@gmail.com)
 
-<div align="left">
-</div>
+I'm a Software Engineer focused on **low-latency backend systems, network proxies, and concurrency engineering**. I build high-performance services in **Go** and solve algorithmic problems in **modern C++**.
 
-###
+---
 
-<h1 align="center">hey there 👋</h1>
+### 🛠️ Core Stack & Focus Areas
 
-###
+- **Languages:** Go, C++, C, SQL
+- **Systems & Backend:** Concurrency & Race Synchronization, Network Proxies, Caching Layers, REST APIs, Token-Bucket Rate Limiters
+- **Foundations:** Operating Systems, Memory Management, TCP/IP & Sockets, Data Structures & Algorithms
+- **Tools & Platforms:** Linux, Git, Docker, VS Code
 
-<h3 align="left">👩‍💻  About Me</h3>
+---
 
-###
+### 🚀 Key Projects
 
-<p align="left">I'm Aditya kumar from Agra<br><br>- 🔭 I’m working on a web development project<br>- 📚 I'm currently learning java script<br>- ⚡ In my free time I read manga and manwah</p>
+- **[SynapseGateway](https://github.com/px444/SynapseGateway):** Asynchronous AI reverse proxy in Go with dual-tier caching (L1 SHA-256 exact match + L2 768-dim vector semantic caching via Cosine Similarity). Reduces upstream inference latency from ~1.2s to sub-5ms with automated provider failover.
+- **[RateLimiter](https://github.com/px444/rate-limiter):** In-memory token-bucket rate limiter and reverse proxy built in Go. Benchmarked at 10,000+ req/sec with per-IP thread safety, verified with `go test -race` and `testing.B`.
 
-###
+---
 
-<h3 align="left">🛠 Language and tools</h3>
+### 📈 Problem Solving & Engineering Philosophy
 
-###
+- Solved **150+ DSA problems** focusing on trees, graphs, dynamic programming, and algorithmic optimization.
+- Passionate about write-amplification reduction, cache locality, and building software that performs reliably under extreme concurrency.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/amazonaws/232F3E" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-</div>
+---
 
-###
+### 📫 Connect With Me
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=px444&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=material-palenight&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=px444&locale=en&mode=daily&theme=material-palenight&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
+- **Email:** [adityakr.swe@gmail.com](mailto:adityakr.swe@gmail.com)
+- **LinkedIn:** [linkedin.com/in/adityakumar9319](https://linkedin.com/in/adityakumar9319)
